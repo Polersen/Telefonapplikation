@@ -41,6 +41,7 @@
                 else if (command == "load")
                 {
                     // Loadgrenen: här lägg in kod
+                    // hej hej hej hej hej
                 }
                 else if (command == "exit")
                 {
